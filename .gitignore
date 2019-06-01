@@ -3,3 +3,5 @@ o
 *.exe
 .vscode
 run.sh
+.s
+*.code-workspace
